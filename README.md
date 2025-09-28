@@ -12,10 +12,9 @@ Unity 기반 VR 안전 관리 및 생산 교육 프로그램
 - 남형우
 - 김선호
   
-
 ## 실행 방법
 ```bash
 git clone https://github.com/NamW00/3STARS.git
 cd 3STARS
-C# main.py
+C# main.cs
 ```
